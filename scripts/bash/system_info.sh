@@ -6,5 +6,4 @@ fi
 if [ "$SHOW_USER" = "yes" ]; then echo "current user: $(whoami)"
 fi
 if [ "$SHOW_DISK" = "yes" ]; then echo "disk space: $(df -h /)"
-fi 
-
+fi
