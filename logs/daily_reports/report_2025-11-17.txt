@@ -1,0 +1,14 @@
+Total checks performed: 40
+Success rate: 75%
+Average response time: 932ms
+Sites with issues:
+- Unreachable Sites
+FakeSite
+- Failed Sites (HTTP Errors)
+GitHub404
+- Slow Sites
+SlowSite
+Slowest sites:
+SlowSite - 4256ms
+SlowSite - 3950ms
+SlowSite - 3786ms

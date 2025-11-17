@@ -49,13 +49,27 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 
 ---
 
+### ✅ Week 4: Bash Scripting & Crontab
+**Focus:** Advanced scripting, automation, scheduling, log analysis
+- Website health monitoring system with cron automation
+- Multi-site availability and performance tracking
+- Automated daily reporting with statistical analysis
+
+**Skills:** bash functions, case statements, grep/awk/sed, cron scheduling, curl, text processing, data aggregation
+
+[View Week 4 Details](docs/week4/)
+
 ## Skills Demonstrated
 - Linux system administration
 - Bash scripting & automation
 - Log analysis & monitoring
-- Text processing (grep, awk, sed)
 - Network troubleshooting & diagnostics
 - SSH configuration & security
 - Git version control
 - Technical documentation
 - Error handling & timeout management
+- Advanced bash scripting (functions, case statements)
+- Text processing & log analysis (grep, awk, sed)
+- Cron job scheduling & automation
+- HTTP monitoring & performance tracking
+- Statistical data analysis from logs
