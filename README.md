@@ -59,6 +59,20 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 
 [View Week 4 Details](docs/week4/)
 
+---
+
+### ✅ Week 5: Python Fundamentals
+**Focus:** Python programming basics, functions, error handling, file I/O
+- CLI calculator with advanced mathematical operations
+- Memory functions for storing and recalling results
+- Calculation history with file export
+
+**Skills:** Python syntax, functions, lists/comprehensions, try/except, file operations, math module
+
+[View Week 5 Details](docs/week5/)
+
+---
+
 ## Skills Demonstrated
 - Linux system administration
 - Bash scripting & automation
@@ -73,3 +87,7 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 - Cron job scheduling & automation
 - HTTP monitoring & performance tracking
 - Statistical data analysis from logs
+- Python programming fundamentals
+- Functions and modular code design
+- Exception handling and input validation
+- File I/O and data persistence
