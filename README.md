@@ -73,6 +73,18 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 
 ---
 
+### ✅ Week 6: Python Data Structures & File I/O
+**Focus:** Data structures, file operations, CLI tools, path handling
+- Smart file organizer with category-based sorting
+- Duplicate detection and auto-renaming system
+- Dry-run mode for safe file operations
+
+**Skills:** Dictionaries, tuples, sets, file I/O, JSON, CSV, pathlib, argparse, shutil
+
+[View Week 6 Details](docs/week6/)
+
+---
+
 ## Skills Demonstrated
 - Linux system administration
 - Bash scripting & automation
@@ -91,3 +103,7 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 - Functions and modular code design
 - Exception handling and input validation
 - File I/O and data persistence
+- Python data structures (dicts, tuples, sets)
+- File I/O and JSON/CSV handling
+- Path operations and file system manipulation
+- CLI development with argparse
