@@ -85,6 +85,18 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 
 ---
 
+### ✅ Week 7: Python for Automation & APIs
+**Focus:** API integration, logging, retry logic, error handling
+- Weather data fetcher CLI with OpenWeatherMap API
+- Intelligent retry with exponential backoff and failure detection
+- Professional logging system with error classification
+
+**Skills:** requests, API authentication, JSON parsing, logging, retry patterns, argparse, python-dotenv, environment variables
+
+[View Week 7 Details](docs/week7/)
+
+---
+
 ## Skills Demonstrated
 - Linux system administration
 - Bash scripting & automation
@@ -107,3 +119,7 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 - File I/O and JSON/CSV handling
 - Path operations and file system manipulation
 - CLI development with argparse
+- RESTful API integration with authentication and error handling
+- Production-ready logging with multi-level output (console + file)
+- Intelligent retry mechanisms with exponential backoff
+- Error classification strategies (retryable vs non-retryable failures)
