@@ -97,6 +97,18 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 
 ---
 
+## ✅ Week 8: Automation & Integrations
+**Focus:** subprocess, file compression, backup automation, rotation logic
+- Automated backup system with compression and validation
+- Intelligent rotation respecting minimum backup counts
+- Dry-run mode with planner/executor separation
+
+**Skills:** subprocess, tar/gzip, SHA256 checksums, backup rotation, argparse, fault-tolerant design, JSON manifests
+
+[View Week 8 Details](docs/week8/)
+
+---
+
 ## Skills Demonstrated
 - Linux system administration
 - Bash scripting & automation
@@ -123,3 +135,7 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 - Production-ready logging with multi-level output (console + file)
 - Intelligent retry mechanisms with exponential backoff
 - Error classification strategies (retryable vs non-retryable failures)
+- subprocess integration for shell command execution from Python
+- Backup validation with SHA256 checksums and integrity verification
+- Intelligent rotation algorithms balancing time-based and count-based rules
+- Production-grade error handling with fault tolerance and graceful degradation
