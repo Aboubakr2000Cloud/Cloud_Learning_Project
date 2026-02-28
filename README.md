@@ -6,7 +6,7 @@ Self-paced cloud engineering bootcamp following industry roadmap.
 
 ### Repository Structure
 ```
-├── scripts/bash/          # Automation scripts
+├── scripts/               # Automation scripts
 ├── configs/               # Configuration files
 ├── docs/                  # Project documentation
 ├── logs/                  # Sample log files
